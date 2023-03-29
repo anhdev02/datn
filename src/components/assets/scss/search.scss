@@ -1,0 +1,45 @@
+#container {
+    padding-top: 45px;
+  }
+  #topArea {
+    display: none;
+  }
+  #header .searchWrap {
+    top: 45px;
+  }
+  .mobile_width {
+    margin: 17px 0 0;
+  }
+  .searchBox.xans-layout-searchheader {
+    display: block;
+  }
+  .xans-product-listitem > li {
+    border: 0;
+    margin: 3px 0;
+  }
+  .searchBox.xans-layout-searchheader .xans-search-hotkeyword {
+    background: #fff;
+  }
+  .searchBox.xans-layout-searchheader .xans-search-hotkeyword ul {
+    border: 0;
+    padding: 0px 0px 60px 12px;
+  }
+  .searchBox.xans-layout-searchheader
+    .xans-search-hotkeyword
+    li
+    a:before {
+    display: none;
+  }
+  .searchBox.xans-layout-searchheader .xans-search-hotkeyword li a {
+    color: #959595;
+  }
+  .xans-product-listitem,
+  .spec {
+    margin: 0;
+    border: 0;
+    margin-top: 5px;
+    margin-left: 5px;
+  }
+  .xans-product-searchdata .swiper-container2 .inner {
+    border: 0;
+  }
